@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataVirtualization">
+</Property><Property Name="Solution File" Value="C:\Users\Viktor\Desktop\DataVirtualization\DataVirtualization.sln">
+</Property><Property Name="Date" Value="quarta-feira, 4 de julho de 2012">
+</Property><Property Name="Time" Value="16:26:37">
+</Property></Properties><Event ErrorLevel="0" Project="DataVirtualization" Source="DataVirtualization.csproj" Description="Project file successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\DataVirtualization.csproj">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="App.xaml.cs" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="DemoWindow.xaml.cs" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\DemoWindow.xaml.cs">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="AsyncVirtualizingCollection.cs" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\AsyncVirtualizingCollection.cs">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="Customer.cs" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\Customer.cs">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="IItemsProvider.cs" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\IItemsProvider.cs">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="DemoCustomerProvider.cs" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\DemoCustomerProvider.cs">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="VirtualizingCollection.cs" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\VirtualizingCollection.cs">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="App.xaml" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\App.xaml">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="DemoWindow.xaml" Description="File successfully backed up as C:\Users\Viktor\Desktop\DataVirtualization\Backup\DemoWindow.xaml">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="DataVirtualization.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataVirtualization" Source="DataVirtualization.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataVirtualization" Source="DataVirtualization.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
